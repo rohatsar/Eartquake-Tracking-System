@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Earthquake Map</title>
+  <meta charset="“UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+
+  <style>
+    #map {
+      height: 90vh;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Earthquake Map</h2>
+<button id="uyariBtn">Get an Earthquake Alert</button>
+<div id="uyariMesaji" style="margin-top:10px; font-weight:bold;"></div>
+<div id="map"></div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+
+<script>
+// Haritayı başlat
+var map = L.map('map').setView([39.0, 35.0], 5); // Türkiye merkezli
+
+// OpenStreetMap katmanı ekle
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+}).addTo(map);
+
+function getColor(magnitude) {
+  return magnitude >= 7 ? '#d73027' :  // Kırmızı
+         magnitude >= 5 ? '#fc8d59' :  // Turuncu
+         magnitude >= 4.5 ? '#fee08b' : // Sarı
+         '#ffffbf';                    // Açık sarı (küçükler)
+}
+// Flask API'den deprem verilerini çek
+fetch('http://127.0.0.1:5000/depremler_ozet')
+  .then(response => response.json())
+  .then(data => {
+    data.forEach(deprem => {
+      if (deprem.koordinatlar && deprem.koordinatlar.enlem && deprem.koordinatlar.boylam) {
+        var circle = L.circleMarker([deprem.koordinatlar.enlem, deprem.koordinatlar.boylam], {
+          radius: deprem.buyukluk * 2,
+          fillColor: getColor(deprem.buyukluk),
+          color: "#000",
+          weight: 1,
+          opacity: 1,
+          fillOpacity: 0.8
+        }).addTo(map);
+
+        var popupContent = `
+          <b>${deprem.yer}</b><br>
+          Büyüklük: ${deprem.buyukluk}<br>
+          Zaman: ${deprem.zaman}<br>
+          Derinlik: ${deprem.koordinatlar.derinlik} km<br>
+        `;
+
+        circle.bindPopup(popupContent);
+      }
+    });
+  })
+  .catch(err => console.error('API hatası:', err));
+  </script>
+<script>
+document.getElementById("uyariBtn").addEventListener("click", () => {
+  fetch('/uyari')
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById("uyariMesaji").textContent = data.uyari;
+    })
+    .catch(err => {
+      document.getElementById("uyariMesaji").textContent = "The warning could not be received.";
+      console.error(err);
+    });
+});
+</script>
+
+</body>
+</html>

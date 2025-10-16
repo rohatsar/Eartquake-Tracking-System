@@ -1,0 +1,84 @@
+{
+  "drop_cover_hold": {
+    "tr": "Çökel, korun, tutun",
+    "en": "Drop, Cover, Hold On",
+    "fr": "Baisse-toi, couvre-toi, agrippe-toi",
+    "ar": "انزل، احمِ نفسك، تمسّك",
+    "es": "Agáchate, cúbrete, agárrate"
+  },
+  "guide_title": {
+  "tr": "Acil Durum Rehberi / Türkçe",
+  "en": "Emergency Guide / English",
+  "es": "Guía de Emergencia / Español",
+  "ar": "دليل الطوارئ / العربية",
+  "fr": "Guide d'Urgence / Français"
+},
+  "steps": {
+    "tr": [
+      "Sakin kal. Derin nefes al.",
+      "Güvenli yere geç: sağlam masa altı veya iç duvar kenarı.",
+      "Asansör kullanma.",
+      "Pencerelerden uzak dur.",
+      "Dışarıdaysan açık alana çık.",
+      "Aracındaysan kenara çek, içeride kal.",
+      "Artçı şoklara hazır ol.",
+      "Gerekirse ilk yardım uygula (sertifikalı eğitim önerilir).",
+      "Gaz/elektrik vanalarını kapat (güvenliyse).",
+      "Resmi kaynakları takip et; internet yoksa offline rehbere bak.",
+      "Toplanma alanına git ve konum paylaş."
+    ],
+    "en": [
+      "Stay calm. Take a deep breath.",
+      "Move to a safe place: under a sturdy table or against an interior wall.",
+      "Do not use elevators.",
+      "Stay away from windows.",
+      "If outside, go to an open area.",
+      "If in a vehicle, pull over and stay inside.",
+      "Be ready for aftershocks.",
+      "Provide first aid if needed (certified training recommended).",
+      "Turn off gas/electric valves (if safe).",
+      "Follow official sources; if no internet, use offline guide.",
+      "Go to gathering area and share your location."
+    ],
+    "fr": [
+      "Restez calme. Respirez profondément.",
+      "Allez dans un endroit sûr : sous une table solide ou contre un mur intérieur.",
+      "N’utilisez pas l’ascenseur.",
+      "Éloignez-vous des fenêtres.",
+      "Si vous êtes dehors, allez dans un espace ouvert.",
+      "Si vous êtes dans un véhicule, garez-vous et restez à l’intérieur.",
+      "Soyez prêt pour les répliques.",
+      "Appliquez les premiers soins si nécessaire (formation certifiée recommandée).",
+      "Coupez le gaz/électricité (si sûr).",
+      "Suivez les sources officielles ; sinon, utilisez le guide hors ligne.",
+      "Allez à l’aire de rassemblement et partagez votre position."
+    ],
+    "ar": [
+      "ابق هادئًا. خذ نفسًا عميقًا.",
+      "انتقل إلى مكان آمن: تحت طاولة متينة أو بجانب جدار داخلي.",
+      "لا تستخدم المصاعد.",
+      "ابتعد عن النوافذ.",
+      "إذا كنت في الخارج، انتقل إلى منطقة مفتوحة.",
+      "إذا كنت في السيارة، توقف في جانب الطريق وابق داخلها.",
+      "استعد للهزات الارتدادية.",
+      "قم بتقديم الإسعافات الأولية إذا لزم الأمر (ينصح بالتدريب المعتمد).",
+      "أغلق صمامات الغاز/الكهرباء (إذا كان ذلك آمنًا).",
+      "تابع المصادر الرسمية؛ إذا لم يكن هناك إنترنت، استخدم الدليل دون اتصال.",
+      "اذهب إلى منطقة التجمع وشارك موقعك."
+    ],
+    "es": [
+      "Mantente calmado. Respira profundamente.",
+      "Muévete a un lugar seguro: bajo una mesa resistente o junto a una pared interior.",
+      "No uses ascensores.",
+      "Mantente alejado de las ventanas.",
+      "Si estás afuera, dirígete a un área abierta.",
+      "Si estás en un vehículo, detente y permanece dentro.",
+      "Prepárate para réplicas.",
+      "Aplica primeros auxilios si es necesario (se recomienda formación certificada).",
+      "Cierra las válvulas de gas/electricidad (si es seguro).",
+      "Sigue las fuentes oficiales; si no hay internet, usa la guía offline.",
+      "Ve al área de reunión y comparte tu ubicación."
+    ]
+  
+  }
+}

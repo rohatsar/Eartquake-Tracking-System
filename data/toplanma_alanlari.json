@@ -1,0 +1,1881 @@
+[
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "PARK (Kültür Merkezi ve Çıraklık Eğitim Merkezi Arkası)",
+    "mahalle": "Cumhuriyet Mh.",
+    "lon": 35.82847621352325,
+    "lat": 37.013637491714576
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "PARK (Kasım Garipoğlu Kız Öğrenci Yurdu Yanı)",
+    "mahalle": "Cumhuriyet Mh.",
+    "lon": 35.830863995102405,
+    "lat": 37.019688913476614
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Ceyhan Spor Salonu",
+    "mahalle": "İstiklal Mh.",
+    "lon": 35.82826195570705,
+    "lat": 37.02798779893129
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Ceyhan Şehir Stadı",
+    "mahalle": "Altıocak Mh.",
+    "lon": 35.812923570808074,
+    "lat": 37.04814077246549
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Semt Pazarı",
+    "mahalle": "İstiklal Mh.",
+    "lon": 35.83018553770861,
+    "lat": 37.029966050446674
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Kapalı Spor Alanı",
+    "mahalle": "İstiklal Mh.",
+    "lon": 35.82827423533549,
+    "lat": 37.028029354570485
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Lokman Hekim Semt Pazarı",
+    "mahalle": "Muradiye Mh.",
+    "lon": 35.815547173839285,
+    "lat": 37.019264396740205
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Spor Alanı",
+    "mahalle": "Namık Kemal Mh.",
+    "lon": 35.824975420820486,
+    "lat": 37.01015391042064
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Spor Alanı ve Meydanı (Fahrettin Paşa Camisi Güneyi)",
+    "mahalle": "Namık Kemal Mh.",
+    "lon": 35.8218157447156,
+    "lat": 37.009944144413325
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Cumartesi Semt Pazarı",
+    "mahalle": "Namık Kemal Mh.",
+    "lon": 35.8168980888357,
+    "lat": 37.01124913910103
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Park Alanı (Müftülük Binası Güneyi)",
+    "mahalle": "Namık Kemal Mh.",
+    "lon": 35.81730742023792,
+    "lat": 37.01613155676533
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Ayşe Malaz Parkı",
+    "mahalle": "Şahin Özbilen Mh.",
+    "lon": 35.823079326861134,
+    "lat": 37.03546705191517
+  },
+  {
+    "il": "Adana",
+    "ilce": "Ceyhan",
+    "adres": "Park Alanı (Yeni İtfaiye Batısı)",
+    "mahalle": "Ulus Mh.",
+    "lon": 35.83068993608557,
+    "lat": 37.02480610307452
+  },
+   {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Fuar Alanı",
+    "mahalle": "Kurttepe Mh.",
+    "lon": 35.24742834517726,
+    "lat": 37.05834417640329
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Yüzüncüyıl Mahallesi Üstü Açık Semt Pazarı",
+    "mahalle": "Yüzüncüyıl Mh.",
+    "lon": 35.24916251813341,
+    "lat": 37.047883032209434
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Kurtuluş Parkı (Çukurova Belediyesi Arkası)",
+    "mahalle": "Belediye Evleri Mh.",
+    "lon": 35.2696015390236,
+    "lat": 37.04048183254919
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Belediye Evleri Semt ve Oto Pazarı",
+    "mahalle": "Belediye Evleri Mh.",
+    "lon": 35.26742083545271,
+    "lat": 37.040179184458495
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Adana Koop. İçi",
+    "mahalle": "Belediye Evleri Mh.",
+    "lon": 35.257088580034726,
+    "lat": 37.04274418457356
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Yalçın Park",
+    "mahalle": "Beyazevler Mh.",
+    "lon": 35.31783700131353,
+    "lat": 37.029362403726495
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Huzurevleri Mahallesi Üstü Açık Semt Pazarı",
+    "mahalle": "Huzurevleri Mh.",
+    "lon": 35.28069403743323,
+    "lat": 37.044829320809185
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Toros Mahallesi Kapalı Semt Pazarı",
+    "mahalle": "Yurt Mh.",
+    "lon": 35.28366236343736,
+    "lat": 37.05139615263237
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Doğal Park",
+    "mahalle": "Toros Mh.",
+    "lon": 35.293045209636354,
+    "lat": 37.046622069166816
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Hayal Park",
+    "mahalle": "Toros Mh.",
+    "lon": 35.2953557538648,
+    "lat": 37.036749081013255
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Gündüz Tekin Onay Tesisleri",
+    "mahalle": "Toros Mh.",
+    "lon": 35.30194789554935,
+    "lat": 37.033922567832704
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Kapalı Semt Pazarı (5106 m²)",
+    "mahalle": "Toros Mh.",
+    "lon": 35.303399267423856,
+    "lat": 37.04070312506994
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Cumhuriyet Parkı",
+    "mahalle": "Yurt Mh.",
+    "lon": 35.284689844947295,
+    "lat": 37.05011664181889
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Spor Parkı",
+    "mahalle": "Yurt Mh.",
+    "lon": 35.29079427123097,
+    "lat": 37.04215568663248
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Altınkoza Parkı",
+    "mahalle": "Huzurevleri Mh.",
+    "lon": 35.277723173608805,
+    "lat": 37.04822748163002
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Belediye Evleri Çamlık Parkı",
+    "mahalle": "Beyazevler Mh.",
+    "lon": 35.32410037283729,
+    "lat": 37.028909047699265
+  },
+  {
+    "il": "Adana",
+    "ilce": "Çukurova",
+    "adres": "Yüzüncüyıl Kapalı Semt Pazarı",
+    "mahalle": "Güzelyalı Mh.",
+    "lon": 35.29571439317449,
+    "lat": 37.049535628945115
+  },
+   {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Büyük Baklalı Stadı",
+    "mahalle": "Büyük Baklalı Mh.",
+    "lon": 35.6316834979625,
+    "lat": 37.03671777778615
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Buruk Cumhuriyet Mah.)",
+    "mahalle": "Buruk Cumhuriyet Mh.",
+    "lon": 35.44853468965273,
+    "lat": 37.038594217118906
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Dağcı Mah.)",
+    "mahalle": "Dağcı Mh.",
+    "lon": 35.520833020682836,
+    "lat": 36.98443990357365
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Esentepe Mh.)",
+    "mahalle": "Esentepe Mh.",
+    "lon": 35.41447037515224,
+    "lat": 37.03504076470296
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park 3 (Esentepe Mh.)",
+    "mahalle": "Esentepe Mh.",
+    "lon": 35.41503736401727,
+    "lat": 37.035684275097445
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Gültepe Ahmet Tosun Parkı",
+    "mahalle": "Gültepe Mh.",
+    "lon": 35.392447609001984,
+    "lat": 37.03615155940585
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park 6 (Gültepe Mh.)",
+    "mahalle": "Gültepe Mh.",
+    "lon": 35.399582549845235,
+    "lat": 37.03411772708243
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park 1 (Gültepe Mh.)",
+    "mahalle": "Gültepe Mh.",
+    "lon": 35.401633394955965,
+    "lat": 37.033599881108884
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Gültepe Mh.)",
+    "mahalle": "Gültepe Mh.",
+    "lon": 35.40243863086889,
+    "lat": 37.03836595000116
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Hürşit Karslı Stadı",
+    "mahalle": "Yeni Mh.",
+    "lon": 35.438355623697284,
+    "lat": 36.9900823120676
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Buruk Stadı",
+    "mahalle": "İstiklal Mh.",
+    "lon": 35.46730539585701,
+    "lat": 37.05994459523333
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Karşıyaka Parkı",
+    "mahalle": "Karşıyaka Mh.",
+    "lon": 35.56010154978767,
+    "lat": 36.9728962914163
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Suluca Stadı",
+    "mahalle": "Karşıyaka Mh.",
+    "lon": 35.5617427329901,
+    "lat": 36.977308229725764
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "İncirlik Stadı",
+    "mahalle": "Kemalpaşa Mh.",
+    "lon": 35.45360623852859,
+    "lat": 36.99524086625729
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park 2 (Mehmet Akif Ersoy Mh.)",
+    "mahalle": "Mehmet Akif Ersoy Mh.",
+    "lon": 35.39730275654216,
+    "lat": 37.0211342380122
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park 8 (Mehmet Akif Ersoy Mh.)",
+    "mahalle": "Mehmet Akif Ersoy Mh.",
+    "lon": 35.39316614310671,
+    "lat": 37.01296531137797
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Mehmet Akif Ersoy Mh.)",
+    "mahalle": "Mehmet Akif Ersoy Mh.",
+    "lon": 35.389852463772556,
+    "lat": 37.01170458829427
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Müminli Mh.)",
+    "mahalle": "Müminli Mh.",
+    "lon": 35.51224662909902,
+    "lat": 36.99660090862806
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Kürkçüler Stadı",
+    "mahalle": "Müminli Mh.",
+    "lon": 35.51254623915849,
+    "lat": 37.00352153696442
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park 4 (Orhangazi Mh.)",
+    "mahalle": "Orhangazi Mh.",
+    "lon": 35.42961179272322,
+    "lat": 37.039172566072736
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park 5 (Orhangazi Mh.)",
+    "mahalle": "Orhangazi Mh.",
+    "lon": 35.42640741067759,
+    "lat": 37.03707934307221
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Orhangazi Mh.)",
+    "mahalle": "Orhangazi Mh.",
+    "lon": 35.425195950236564,
+    "lat": 37.03283697554306
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Osmangazi Mh.)",
+    "mahalle": "Osmangazi Mh.",
+    "lon": 35.40896601620886,
+    "lat": 37.070060920931
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Şahin­tepe Mh.)",
+    "mahalle": "Şahintepe Mh.",
+    "lon": 35.41744888840552,
+    "lat": 37.029661085319425
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Yavuz Sultan Selim Mh.)",
+    "mahalle": "Yavuz Sultan Selim Mh.",
+    "lon": 35.42910554128724,
+    "lat": 37.04369043495459
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park 7 (Yavuz Sultan Selim Mh.)",
+    "mahalle": "Yavuz Sultan Selim Mh.",
+    "lon": 35.420118260451304,
+    "lat": 37.03865972411576
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Aşım Savaş Kapalı Spor Salonu",
+    "mahalle": "Yavuz Sultan Selim Mh.",
+    "lon": 35.42201830901233,
+    "lat": 37.04021580336319
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Kapalı Semt Pazarı (Yavuz Sultan Selim Mh.)",
+    "mahalle": "Yavuz Sultan Selim Mh.",
+    "lon": 35.42518021433939,
+    "lat": 37.04093929787505
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Yeşiltepe Mh.)",
+    "mahalle": "Yeşiltepe Mh.",
+    "lon": 35.410624262852956,
+    "lat": 37.03779242852637
+  },
+  {
+    "il": "Adana",
+    "ilce": "Sarıçam",
+    "adres": "Park (Yıldırım Beyazıt Mh.)",
+    "mahalle": "Yıldırım Beyazıt Mh.",
+    "lon": 35.400849522584735,
+    "lat": 37.027492091129325
+  },
+   {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Çocuk ve Dinlenme Parkı (Gülpınar Mh.)",
+    "mahalle": "Gülpınar Mh.",
+    "lon": 35.31018554777411,
+    "lat": 36.98253601753337
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "2 Nolu Çocuk ve Dinlenme Parkı (Gürselpaşa Mh.)",
+    "mahalle": "Gürselpaşa Mh.",
+    "lon": 35.27345301751628,
+    "lat": 37.01772760785176
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "5 Nolu Çocuk ve Dinlenme Parkı (Gürselpaşa Mh.)",
+    "mahalle": "Gürselpaşa Mh.",
+    "lon": 35.268659160214774,
+    "lat": 37.0243763608176
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Hanedan Çocuk ve Dinlenme Parkı (Hanedan Mh.)",
+    "mahalle": "Hanedan Mh.",
+    "lon": 35.319758363913294,
+    "lat": 36.98677189265321
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Havuzlubahçe Çocuk ve Dinlenme Parkı (Havuzlubahçe Mh.)",
+    "mahalle": "Havuzlubahçe Mh.",
+    "lon": 35.317406957664765,
+    "lat": 36.97329637557752
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Hürriyet Çocuk ve Dinlenme Parkı (Hürriyet Mh.)",
+    "mahalle": "Hürriyet Mh.",
+    "lon": 35.32418121383536,
+    "lat": 36.978393500417624
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Kocavezir Parkı (Kocavezir Mh.)",
+    "mahalle": "Kocavezir Mh.",
+    "lon": 35.32116523657319,
+    "lat": 36.985454724275215
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Atatürk Parkı (Reşatbey Mh.)",
+    "mahalle": "Reşatbey Mh.",
+    "lon": 35.32300507761963,
+    "lat": 36.99678054262227
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Mehmet Adıgüzel Çocuk ve Dinlenme Parkı (Meydan Mh.)",
+    "mahalle": "Meydan Mh.",
+    "lon": 35.303530797473506,
+    "lat": 36.98652808831722
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Şehit Asb. Çvş. Mustafa Pelen Çocuk ve Dinlenme Parkı (Narlıca Mh.)",
+    "mahalle": "Narlıca Mh.",
+    "lon": 35.29317205100107,
+    "lat": 36.99865488468863
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "2 Nolu Çocuk ve Dinlenme Parkı (Ova Mh.)",
+    "mahalle": "Ova Mh.",
+    "lon": 35.27024313282546,
+    "lat": 36.984774209032636
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Çocuk ve Dinlenme Parkı (Pınar Mh.)",
+    "mahalle": "Pınar Mh.",
+    "lon": 35.28695447743037,
+    "lat": 37.02396455516299
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Spor Tesisi ve Dinlenme Parkı (Pınar Mh.)",
+    "mahalle": "Pınar Mh.",
+    "lon": 35.283246807338834,
+    "lat": 37.02022989550613
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Gençlik Stadyumu (Reşatbey Mh.)",
+    "mahalle": "Reşatbey Mh.",
+    "lon": 35.33108542161591,
+    "lat": 36.99885327210267
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "5 Ocak Stadyumu (Reşatbey Mh.)",
+    "mahalle": "Reşatbey Mh.",
+    "lon": 35.329700492881095,
+    "lat": 36.99906095434525
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Menderes Spor Salonu (Reşatbey Mh.)",
+    "mahalle": "Reşatbey Mh.",
+    "lon": 35.33061718858633,
+    "lat": 37.00009255106948
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Merkez Park (Cemalpaşa Mh.)",
+    "mahalle": "Cemalpaşa Mh.",
+    "lon": 35.33457152868866,
+    "lat": 36.995618616553806
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Sakarya Dinlenme Parkı (Sakarya Mh.)",
+    "mahalle": "Sakarya Mh.",
+    "lon": 35.30497166886401,
+    "lat": 36.9949571277051
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Sarıhamzalı Çocuk ve Dinlenme Parkı, Basketbol Sahası (Sarıhamzalı Mh.)",
+    "mahalle": "Sarıhamzalı Mh.",
+    "lon": 35.22300855710926,
+    "lat": 36.979770457151126
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Spor Kompleksi (Söğütlü Mh.)",
+    "mahalle": "Söğütlü Mh.",
+    "lon": 35.198704422595235,
+    "lat": 37.00393226644731
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Çocuk ve Dinlenme Parkı (Sucuzade Mh.)",
+    "mahalle": "Sucuzade Mh.",
+    "lon": 35.32157899537428,
+    "lat": 36.979477708278566
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Çocuk ve Dinlenme Parkı (Tellidere Mh.)",
+    "mahalle": "Tellidere Mh.",
+    "lon": 35.29913330579749,
+    "lat": 37.02041367036946
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Çocuk ve Dinlenme Parkı (Türkocağı Mh.)",
+    "mahalle": "Türkocağı Mh.",
+    "lon": 35.33384536073478,
+    "lat": 36.980574710415944
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Ziyapaşa Dinlenme Parkı (Ulucamii Mh.)",
+    "mahalle": "Ulucamii Mh.",
+    "lon": 35.330671599357125,
+    "lat": 36.984311470714275
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Basketbol Sahası (Yeşilevler Mh.)",
+    "mahalle": "Yeşilevler Mh.",
+    "lon": 35.282526547347025,
+    "lat": 37.00492096994041
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "2 Nolu Çocuk ve Dinlenme Parkı – Futbol Sahası (Yeşiloba Mh.)",
+    "mahalle": "Yeşiloba Mh.",
+    "lon": 35.2313068908515,
+    "lat": 37.00168075219958
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Hipodrom (Koşu Meydanı) (Yeşiloba Mh.)",
+    "mahalle": "Yeşiloba Mh.",
+    "lon": 35.229567369621904,
+    "lat": 36.99229545144359
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "3 Nolu Çocuk ve Dinlenme Parkı (Yeşilyurt Mh.)",
+    "mahalle": "Yeşilyurt Mh.",
+    "lon": 35.30871510227788,
+    "lat": 37.0259253051366
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Palmiye 6 Nolu Çocuk ve Dinlenme Parkı (Yeşilyurt Mh.)",
+    "mahalle": "Yeşilyurt Mh.",
+    "lon": 35.29934058192037,
+    "lat": 37.02699527065688
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Prof. Dr. Sebahattin Zaim Çocuk ve Dinlenme Parkı (Yeşilyuva Mh.)",
+    "mahalle": "Yeşilyuva Mh.",
+    "lon": 35.311446752695026,
+    "lat": 36.98659899702799
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Dilber Park (Yenibaraj Mh.)",
+    "mahalle": "Yenibaraj Mh.",
+    "lon": 35.32160041758547,
+    "lat": 37.02411914536981
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "İnönü Parkı (Kayalıbağ Mh.)",
+    "mahalle": "Kayalıbağ Mh.",
+    "lon": 35.3265208974289,
+    "lat": 36.99068417162298
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Ulus Parkı (Ulucamii Mh.)",
+    "mahalle": "Ulucamii Mh.",
+    "lon": 35.333897967013165,
+    "lat": 36.983733686085785
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Zübeyde Hanım Parkı (Ulucamii Mh.)",
+    "mahalle": "Ulucamii Mh.",
+    "lon": 35.3330517740775,
+    "lat": 36.98907623907121
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Şehit Serhat Sığınak Parkı (Gürselpaşa Mh.)",
+    "mahalle": "Gürselpaşa Mh.",
+    "lon": 35.27429460533075,
+    "lat": 37.0261502189401
+  },
+   {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Çocuk ve Dinlenme Parkı (Demetevler Mh.)",
+    "mahalle": "Demetevler Mh.",
+    "lon": 35.28041218047205,
+    "lat": 37.00035185225744
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "İsmet Atlı Çocuk ve Dinlenme Parkı (Denizli Mh.)",
+    "mahalle": "Denizli Mh.",
+    "lon": 35.29928202940372,
+    "lat": 37.00643559665808
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Dumlupınar Çocuk ve Dinlenme Parkı (Dumlupınar Mh.)",
+    "mahalle": "Dumlupınar Mh.",
+    "lon": 35.30022547686558,
+    "lat": 36.98110853719422
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Fatih Sultan Mehmet Parkı (Fatih Mh.)",
+    "mahalle": "Fatih Mh.",
+    "lon": 35.294190064399146,
+    "lat": 37.020565424296166
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "2 Nolu Çocuk ve Dinlenme Parkı (Fatih Mah.)",
+    "mahalle": "Fatih Mh.",
+    "lon": 35.29005330729464,
+    "lat": 37.01627573088758
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Çocuk ve Dinlenme Parkı (Fevzipaşa Mh.)",
+    "mahalle": "Fevzipaşa Mh.",
+    "lon": 35.27407368243263,
+    "lat": 36.99712697029527
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "2 Nolu Çocuk ve Spor Tesisi (Dağlıoğlu Mh.)",
+    "mahalle": "Dağlıoğlu Mh.",
+    "lon": 35.304882172543465,
+    "lat": 36.97303089884711
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "2 Nolu Çocuk ve Dinlenme Parkı, Futbol Sahası, Fitnes Alanı (2000 Evler Mh.)",
+    "mahalle": "2000 Evler Mh.",
+    "lon": 35.26025936542298,
+    "lat": 37.029779826650774
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "2 Nolu Çocuk ve Dinlenme Parkı (Aydınlar Mh.)",
+    "mahalle": "Aydınlar Mh.",
+    "lon": 35.26791605182004,
+    "lat": 37.00326862733775
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Çocuk ve Dinlenme Parkı (Bahçelievler Mh.)",
+    "mahalle": "Bahçelievler Mh.",
+    "lon": 35.290131437518525,
+    "lat": 37.00035185225744
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Çocuk ve Dinlenme Parkı (Bahçeşehir Mh.)",
+    "mahalle": "Bahçeşehir Mh.",
+    "lon": 35.24310359061377,
+    "lat": 37.02734548899072
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Çocuk ve Dinlenme Parkı (Barbaros Mh.)",
+    "mahalle": "Barbaros Mh.",
+    "lon": 35.32303171417439,
+    "lat": 36.96761991477905
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "3 Nolu Çocuk ve Dinlenme Parkı (Barbaros Mh.)",
+    "mahalle": "Barbaros Mh.",
+    "lon": 35.326980918752476,
+    "lat": 36.96675451755926
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "3 Nolu Çocuk ve Dinlenme Parkı (Barış Mh.)",
+    "mahalle": "Barış Mh.",
+    "lon": 35.27763262243968,
+    "lat": 37.00123062217113
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Yenibey Dinlenme Parkı (Yenibey Mh.)",
+    "mahalle": "Yenibey Mh.",
+    "lon": 35.32790975848493,
+    "lat": 36.97561003093053
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "2 Temmuz Çocuk ve Dinlenme Parkı (Çınarlı Mh.)",
+    "mahalle": "Çınarlı Mh.",
+    "lon": 35.32471293891204,
+    "lat": 36.994417212229585
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Güney Yıldız Parkı (Dağlıoğlu Mh.)",
+    "mahalle": "Dağlıoğlu Mh.",
+    "lon": 35.3124576995297,
+    "lat": 36.96865326344539
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "1 Nolu Çocuk ve Dinlenme Parkı (Demetevler Mh.)",
+    "mahalle": "Demetevler Mh.",
+    "lon": 35.28041218047205,
+    "lat": 36.99906147016951
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "İsmet Atlı Çocuk ve Dinlenme Parkı (Denizli Mh.)",
+    "mahalle": "Denizli Mh.",
+    "lon": 35.29928202940372,
+    "lat": 37.00643559665808
+  },
+  {
+    "il": "Adana",
+    "ilce": "Seyhan",
+    "adres": "Dumlupınar Çocuk ve Dinlenme Parkı (Dumlupınar Mh.)",
+    "mahalle": "Dumlupınar Mh.",
+    "lon": 35.30022547686558,
+    "lat": 36.98110853719422
+  },
+   {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Çukurkuyu Parkı (Çukurkuyu Mh.)",
+    "mahalle": "Çukurkuyu Mh.",
+    "lon": 35.4285,
+    "lat": 37.0239
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Karaali Parkı (Karaali Mh.)",
+    "mahalle": "Karaali Mh.",
+    "lon": 35.4381,
+    "lat": 37.0112
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Mahmudiye Parkı (Mahmudiye Mh.)",
+    "mahalle": "Mahmudiye Mh.",
+    "lon": 35.4487,
+    "lat": 37.0185
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Sağdıç Parkı (Sağdıç Mh.)",
+    "mahalle": "Sağdıç Mh.",
+    "lon": 35.4569,
+    "lat": 37.0250
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Toros Parkı (Toros Mh.)",
+    "mahalle": "Toros Mh.",
+    "lon": 35.4672,
+    "lat": 37.0305
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "İncirlik Parkı (İncirlik Mh.)",
+    "mahalle": "İncirlik Mh.",
+    "lon": 35.4968,
+    "lat": 37.0134
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Karataş Parkı (Karataş Mh.)",
+    "mahalle": "Karataş Mh.",
+    "lon": 35.4579,
+    "lat": 37.0023
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Kurtuluş Parkı (Kurtuluş Mh.)",
+    "mahalle": "Kurtuluş Mh.",
+    "lon": 35.4490,
+    "lat": 37.0201
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Mithatpaşa Parkı (Mithatpaşa Mh.)",
+    "mahalle": "Mithatpaşa Mh.",
+    "lon": 35.4343,
+    "lat": 37.0189
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "Yenimahalle Parkı (Yenimahalle Mh.)",
+    "mahalle": "Yenimahalle Mh.",
+    "lon": 35.4425,
+    "lat": 37.0165
+  },
+   {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "FUTBOL SAHASI (STADYUM)",
+    "mahalle": "Akdeniz Mh.",
+    "lon": 35.34666160399444,
+    "lat": 36.96932343341099
+    
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "DOĞANKENT PARKI",
+    "mahalle": "Doğankent Cumhuriyet Mh.",
+     "lon": 35.34319249793956,
+    "lat": 36.84566888602979
+   
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "DSİ YANI",
+    "mahalle": "Doğankent Cumhuriyet Mh.",
+    "lon": 35.34319249793956,
+    "lat": 36.84566888602979
+    
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "HAVUTLU PARKI",
+    "mahalle": "Havutlu Mh.",
+     "lon": 35.34013565372786,
+    "lat": 36.92761859855761
+   
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "HAVUTLU STADYUMU",
+    "mahalle": "Havutlu Mh.",
+    "lon": 35.339769824228384,
+    "lat": 36.92831480189126
+    
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "ATLI SPOR KLUBÜ",
+    "mahalle": "Kışla Mh.",
+     "lon": 35.34287032646563,
+    "lat": 37.0280954256189
+   
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "MUHARREM GÜLERGİN STADYUMU",
+    "mahalle": "Kışla Mh.",
+    "lon": 35.32999789984568,
+    "lat": 37.02165493239149
+    
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "SERİNEVLER SPOR SALONU",
+    "mahalle": "Dadaloğlu Mh.",
+     "lon": 35.35809621042907,
+    "lat": 37.00373483248785
+   
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "KAPALI SPOR SALONU",
+    "mahalle": "Dadaloğlu Mh.",
+    "lon": 35.35835466122583,
+    "lat": 37.00362551561558
+    
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "AYTAÇ DURAK TESİSLERİ",
+    "mahalle": "Sinanpaşa Mh.",
+    "lon": 35.340720557810805,
+    "lat": 36.99915863434284
+    
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "PARK (SOLAKLI)",
+    "mahalle": "Solaklı Hürriyet Mh.",
+     "lon": 35.3361378532375,
+    "lat": 36.802120868899095
+   
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "ORHAN KEMAL PARKI (YAVUZLAR PARKI)",
+    "mahalle": "Yavuzlar Mh.",
+     "lon": 35.34883707982675,
+    "lat": 37.00007210025716
+   
+  },
+  {
+    "il": "Adana",
+    "ilce": "Yüreğir",
+    "adres": "STADYUM",
+    "mahalle": "Yunusoğlu Cumhuriyet Mh.",
+    "lon": 35.27435474087944,
+    "lat": 36.81908796517233
+    
+  },
+   {
+    "il": "Adana",
+    "ilce": "Feke",
+    "adres": "DEVLET BAHÇELİ STADYUMU",
+    "mahalle": "İslam Mh.",
+      "lon": 35.90982144132025,
+    "lat": 37.815412338036715
+  
+  },
+  {
+    "il": "Adana",
+    "ilce": "Feke",
+    "adres": "Feke Merkez Parkı",
+    "mahalle": "Merkez Mh.",
+     "lon": 35.905230,
+    "lat": 37.820150
+   
+  },
+  {
+    "il": "Adana",
+    "ilce": "Feke",
+    "adres": "Karakuyu Parkı",
+    "mahalle": "Karakuyu Mh.",
+     "lon": 35.895100,
+    "lat": 37.832500
+   
+  },
+   
+  {
+    "il": "Adana",
+    "ilce": "Feke",
+    "adres": "Feke Çocuk Oyun Alanı",
+    "mahalle": "Cumhuriyet Mh.",
+     "lon": 35.907000,
+    "lat": 37.818000
+   
+  },
+   {
+    "il": "Adana",
+    "ilce": "İmamoğlu",
+    "adres": "MAMOĞLU KAPALI SPOR SALONU",
+    "mahalle": "Cumhuriyet Mh.",
+    "lon": 35.65973722423102,
+    "lat": 37.26768909899062
+  },
+  {
+    "il": "Adana",
+    "ilce": "İmamoğlu",
+    "adres": "NAİM SÜLEYMAN OĞLU PARKI",
+    "mahalle": "Tuna Mh.",
+    "lon": 35.66702897704982,
+    "lat": 37.25851148916766
+  },
+  {
+    "il": "Adana",
+    "ilce": "İmamoğlu",
+    "adres": "ŞEHİT ER MEHMET KARACA PARKI",
+    "mahalle": "Hürriyet Mh.",
+    "lon": 35.656357068117664,
+    "lat": 37.25343895188995
+  },
+  {
+    "il": "Adana",
+    "ilce": "İmamoğlu",
+    "adres": "MUSA TÜRKSEV PARKI",
+    "mahalle": "Adalet Mh.",
+    "lon": 35.66537349287722,
+    "lat": 37.26200948493782
+  },
+  {
+    "il": "Adana",
+    "ilce": "İmamoğlu",
+    "adres": "TANSU ÇİLLER PARKI",
+    "mahalle": "Hürriyet Mh.",
+    "lon": 35.64820189219939,
+    "lat": 37.24556450521926
+  },
+  {
+    "il": "Adana",
+    "ilce": "İmamoğlu",
+    "adres": "İMAMOĞLU MERKEZ PARKI",
+    "mahalle": "Merkez Mh.",
+    "lon": 35.660000,
+    "lat": 37.260000
+  },
+  {
+    "il": "Adana",
+    "ilce": "İmamoğlu",
+    "adres": "YENİ MAHALLE PARKI",
+    "mahalle": "Yeni Mh.",
+    "lon": 35.6125,
+    "lat": 37.255000
+  
+  },
+   {
+      "il": "Adana",
+      "ilce": "Karataş",
+      "mahalle": "Yeni Mahalle",
+      "adres": "Aktif Alan",
+      "lon": 35.385016,
+      "lat": 36.565500
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karataş",
+      "mahalle": "Güzel Yalı Mah.",
+      "adres": "Güzel Yalı Parkı",
+      "lon": 35.378,
+      "lat": 36.568
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karataş",
+      "mahalle": "Güzel Yalı Mah.",
+      "adres": "Aktif Alan 2",
+      "lon": 35.379,
+      "lat": 36.5675
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karataş",
+      "mahalle": "Sarımazı Mah.",
+      "adres": "Sarımazı Parkı",
+      "lon": 35.375,
+      "lat": 36.565
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Merkez",
+      "adres": "Devlet Bahçeli Stadyumu",
+      "lon": 35.9123,
+      "lat": 37.8175
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Merkez",
+      "adres": "Feke Merkez Meydanı (Kaymakamlık önü / İlçe Meydanı)",
+      "lon": 35.9145,
+      "lat": 37.814
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Merkez",
+      "adres": "Şehit Koray Özel Anadolu Lisesi Bahçesi (okul bahçesi)",
+      "lon": 35.911,
+      "lat": 37.8165
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Merkez",
+      "adres": "Feke İlçe Devlet Hastanesi önü / otopark (güvenli toplanma adayı)",
+      "lon": 35.9135,
+      "lat": 37.812
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Farsaklar",
+      "adres": "Farsaklar Piknik / Mesire Alanı",
+      "lon": 35.885,
+      "lat": 37.835
+
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Koçyazı",
+      "adres": "Koçyazı Köy Meydanı / Okul Bahçesi (toplanma alanı)",
+      "lon": 35.935,
+      "lat": 37.828
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Kaleyüzü",
+      "adres": "Kaleyüzü Köy Meydanı / Çok amaçlı açık alan",
+      "lon": 35.932,
+      "lat": 37.798
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Bahçecik",
+      "adres": "Bahçecik Köy Meydanı / Okul Bahçesi",
+      "lon": 35.917,
+      "lat": 37.842
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Yerebakan",
+      "adres": "Yerebakan Köy Meydanı / Spor Sahası",
+      "lon": 35.892,
+      "lat": 37.802
+    },
+    {
+      "il": "Adana",
+      "ilce": "Feke",
+      "mahalle": "Kırıkuşağı",
+      "adres": "Kırıkuşağı Köy Meydanı / Çok amaçlı meydan",
+      "lon": 35.922,
+      "lat": 37.807
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Merkez Parkı",
+      "lon": 35.197,
+      "lat": 37.265
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Karaisalı Belediyesi Otoparkı",
+      "lon": 35.198,
+      "lat": 37.2645
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Çeceli",
+      "adres": "Karaisalı Devlet Hastanesi Bahçesi",
+      "lon": 35.063204,
+      "lat": 37.244842
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Karaisalı Lisesi Bahçesi",
+      "lon": 35.196,
+      "lat": 37.263
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Karaisalı Kaymakamlık Bahçesi",
+      "lon": 35.199,
+      "lat": 37.264
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Karaisalı Pazar Yeri Alanı",
+      "lon": 35.1975,
+      "lat": 37.2655
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Karaisalı Camii Bahçesi",
+      "lon": 35.1985,
+      "lat": 37.265
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Karaisalı Spor Salonu Bahçesi",
+      "lon": 35.2,
+      "lat": 37.2665
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Karaisalı Belediye Düğün Salonu Bahçesi",
+      "lon": 35.2005,
+      "lat": 37.267
+    },
+    {
+      "il": "Adana",
+      "ilce": "Karaisalı",
+      "mahalle": "Merkez",
+      "adres": "Karaisalı Kültür Merkezi Bahçesi",
+      "lon": 35.2015,
+      "lat": 37.2675
+    },
+    {
+      "il": "Adana",
+      "ilce": "Pozantı",
+      "mahalle": "Fındıklı",
+      "adres": "Yeni Mah. Okullar Bölgesi",
+      "lon": 34.871,
+      "lat": 37.456
+    },
+    {
+      "il": "Adana",
+      "ilce": "Pozantı",
+      "mahalle": "Yağlıtaş",
+      "adres": "Yağlıtaş Cami Önü",
+      "lon": 34.885,
+      "lat": 37.47
+    },
+    {
+      "il": "Adana",
+      "ilce": "Pozantı",
+      "mahalle": "Kurtuluş",
+      "adres": "Kurtuluş Mah. Cami 2",
+      "lon": 34.89,
+      "lat": 37.475
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Ceritler",
+      "adres": "Aladağ Merkez Meydanı",
+      "lon": 35.347691,
+      "lat": 37.482211
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Merkez",
+      "adres": "Aladağ Belediye Bahçesi",
+      "lon": 35.4045,
+      "lat": 37.511
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Merkez",
+      "adres": "Aladağ Lisesi Bahçesi",
+      "lon": 35.4055,
+      "lat": 37.512
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Sinanpaşa",
+      "adres": "Aladağ Devlet Hastanesi Önü",
+      "lon": 35.406,
+      "lat": 37.513
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Orta Mahalle",
+      "adres": "Orta Mahalle Spor Alanı",
+      "lon": 35.408,
+      "lat": 37.515
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Büyükalan",
+      "adres": "Büyükalan Köy Meydanı",
+      "lon": 35.42,
+      "lat": 37.525
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Çakıt",
+      "adres": "Çakıt Köy Meydanı",
+      "lon": 35.43,
+      "lat": 37.535
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Kabasakal",
+      "adres": "Kabasakal Köy Meydanı / Okul Bahçesi",
+      "lon": 35.44,
+      "lat": 37.545
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Karakışla",
+      "adres": "Karakışla Köy Meydanı",
+      "lon": 35.45,
+      "lat": 37.555
+    },
+    {
+      "il": "Adana",
+      "ilce": "Aladağ",
+      "mahalle": "Büyükburç",
+      "adres": "Büyükburç Köy Meydanı",
+      "lon": 35.46,
+      "lat": 37.565
+    },
+    {
+      "il": "Adana",
+      "ilce": "Saimbeyli",
+      "mahalle": "Fatih",
+      "adres": "Pazar Yeri",
+      "lon": 36.087086,
+      "lat": 37.982794
+    },
+    {
+      "il": "Adana",
+      "ilce": "Saimbeyli",
+      "mahalle": "Fatih",
+      "adres": "Futbol Sahası",
+      "lon": 36.11,
+      "lat": 37.985
+    },
+    {
+      "il": "Adana",
+      "ilce": "Saimbeyli",
+      "mahalle": "Yeşilbağlar",
+      "adres": "Şehit Ali Çakar Lisesi",
+      "lon": 36.118,
+      "lat": 37.995
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Cumhuriyet Mah. Tören Alanı 1",
+      "lon": 36.085,
+      "lat": 38.285
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Cumhuriyet Mah. Tören Alanı 2",
+      "lon": 36.0855,
+      "lat": 38.286
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Tufanbeyli Merkez Meydanı",
+      "lon": 36.086,
+      "lat": 38.287
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Tufanbeyli Spor Sahası",
+      "lon": 36.087,
+      "lat": 38.288
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Tufanbeyli Lisesi Bahçesi",
+      "lon": 36.088,
+      "lat": 38.289
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Tufanbeyli Belediye Bahçesi",
+      "lon": 36.089,
+      "lat": 38.29
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Tufanbeyli Devlet Hastanesi Bahçesi",
+      "lon": 36.213371,
+      "lat": 38.257917
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Tufanbeyli Pazar Yeri",
+      "lon": 36.091,
+      "lat": 38.292
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Tufanbeyli Kültür Merkezi Bahçesi",
+      "lon": 36.092,
+      "lat": 38.293
+    },
+    {
+      "il": "Adana",
+      "ilce": "Tufanbeyli",
+      "mahalle": "Cumhuriyet",
+      "adres": "Tufanbeyli Camii Bahçesi",
+      "lon": 36.093,
+      "lat": 38.294
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Ayas",
+      "adres": "Yumurtalık Belediyesi Yazlık Düğün Salonu",
+      "lon": 35.795,
+      "lat": 36.78
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Ayas",
+      "adres": "Kenan Güveloğlu Parkı 1",
+      "lon": 35.796,
+      "lat": 36.781
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Merkez",
+      "adres": "Yumurtalık Merkez Meydanı",
+      "lon": 35.797,
+      "lat": 36.782
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Merkez",
+      "adres": "Yumurtalık Pazar Yeri",
+      "lon": 35.798,
+      "lat": 36.783
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Merkez",
+      "adres": "Yumurtalık Spor Sahası",
+      "lon": 35.799,
+      "lat": 36.784
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Merkez",
+      "adres": "Yumurtalık Devlet Hastanesi Bahçesi",
+      "lon": 35.8,
+      "lat": 36.785
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Merkez",
+      "adres": "Yumurtalık Lisesi Bahçesi",
+      "lon": 35.801,
+      "lat": 36.786
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Merkez",
+      "adres": "Yumurtalık Belediye Bahçesi",
+      "lon": 35.802,
+      "lat": 36.787
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Merkez",
+      "adres": "Yumurtalık Kültür Merkezi Bahçesi",
+      "lon": 35.803,
+      "lat": 36.788
+    },
+    {
+      "il": "Adana",
+      "ilce": "Yumurtalık",
+      "mahalle": "Merkez",
+      "adres": "Yumurtalık Camii Bahçesi",
+      "lon": 35.804,
+      "lat": 36.789
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Güneri",
+      "adres": "Kozan OSB Toplanma Alanı 1",
+      "lon": 35.885,
+      "lat": 37.45
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Güneri",
+      "adres": "Kozan OSB Toplanma Alanı 2",
+      "lon": 35.886,
+      "lat": 37.451
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Merkez",
+      "adres": "Kozan Merkez Meydanı",
+      "lon": 35.82,
+      "lat": 37.455
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Merkez",
+      "adres": "Kozan Belediye Bahçesi",
+      "lon": 35.821,
+      "lat": 37.456
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Merkez",
+      "adres": "Kozan Lisesi Bahçesi",
+      "lon": 35.822,
+      "lat": 37.457
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Merkez",
+      "adres": "Kozan Devlet Hastanesi Bahçesi",
+      "lon": 35.823,
+      "lat": 37.458
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Merkez",
+      "adres": "Kozan Pazar Yeri",
+      "lon": 35.824,
+      "lat": 37.459
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Merkez",
+      "adres": "Kozan Spor Salonu Bahçesi",
+      "lon": 35.825,
+      "lat": 37.46
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Merkez",
+      "adres": "Kozan Kültür Merkezi Bahçesi",
+      "lon": 35.826,
+      "lat": 37.461
+    },
+    {
+      "il": "Adana",
+      "ilce": "Kozan",
+      "mahalle": "Merkez",
+      "adres": "Kozan Camii Bahçesi",
+      "lon": 35.827,
+      "lat": 37.462
+    },
+    {"il": "İstanbul", "ilce": "Kadıköy", "mahalle": "Moda Mh.", "adres": "Moda İskelesi Parkı", "lon": 29.0263, "lat": 40.9731},
+    {"il": "İstanbul", "ilce": "Kadıköy", "mahalle": "Kızıltoprak Mh.", "adres": "Kızıltoprak Meydanı", "lon": 29.0258, "lat": 40.9739},
+    {"il": "İstanbul", "ilce": "Kadıköy", "mahalle": "Göztepe Mh.", "adres": "Göztepe Parkı", "lon": 29.0365, "lat": 40.9792},
+    {"il": "İstanbul", "ilce": "Beşiktaş", "mahalle": "Etiler Mh.", "adres": "Etiler Spor Alanı", "lon": 29.0251, "lat": 41.0623},
+    {"il": "İstanbul", "ilce": "Beşiktaş", "mahalle": "Levent Mh.", "adres": "Levent Meydanı", "lon": 29.0126, "lat": 41.0675},
+    {"il": "İstanbul", "ilce": "Şişli", "mahalle": "Nişantaşı Mh.", "adres": "Nişantaşı Parkı", "lon": 28.9893, "lat": 41.0551},
+    {"il": "İstanbul", "ilce": "Şişli", "mahalle": "Mecidiyeköy Mh.", "adres": "Mecidiyeköy Meydanı", "lon": 28.9948, "lat": 41.0644},
+    {"il": "İstanbul", "ilce": "Fatih", "mahalle": "Sultanahmet Mh.", "adres": "Sultanahmet Meydanı", "lon": 28.9770, "lat": 41.0086},
+    {"il": "İstanbul", "ilce": "Fatih", "mahalle": "Cankurtaran Mh.", "adres": "Cankurtaran Parkı", "lon": 28.9761, "lat": 41.0027},
+    {"il": "İstanbul", "ilce": "Esenyurt", "mahalle": "Atatürk Mh.", "adres": "Atatürk Parkı", "lon": 28.6674, "lat": 41.0293},
+    {"il": "İstanbul", "ilce": "Esenyurt", "mahalle": "Yenikent Mh.", "adres": "Yenikent Spor Sahası", "lon": 28.6542, "lat": 41.0368},
+    {"il": "İstanbul", "ilce": "Avcılar", "mahalle": "Ambarlı Mh.", "adres": "Ambarlı Sahil Parkı", "lon": 28.6871, "lat": 41.0032},
+    {"il": "İstanbul", "ilce": "Avcılar", "mahalle": "Cihangir Mh.", "adres": "Cihangir Parkı", "lon": 28.6578, "lat": 41.0001},
+    {"il": "İstanbul", "ilce": "Beylikdüzü", "mahalle": "Barbaros Mh.", "adres": "Barbaros Parkı", "lon": 28.6589, "lat": 40.9869},
+    {"il": "İstanbul", "ilce": "Beylikdüzü", "mahalle": "Gürpınar Mh.", "adres": "Gürpınar Meydanı", "lon": 28.6655, "lat": 40.9722},
+    {"il": "İstanbul", "ilce": "Kartal", "mahalle": "Yalı Mh.", "adres": "Yalı Parkı", "lon": 29.1543, "lat": 40.8857},
+    {"il": "İstanbul", "ilce": "Kartal", "mahalle": "Soğanlık Mh.", "adres": "Soğanlık Spor Alanı", "lon": 29.1410, "lat": 40.8835},
+    {"il": "İstanbul", "ilce": "Maltepe", "mahalle": "Fındıklı Mh.", "adres": "Fındıklı Parkı", "lon": 29.1290, "lat": 40.9195},
+    {"il": "İstanbul", "ilce": "Maltepe", "mahalle": "Zümrütevler Mh.", "adres": "Zümrütevler Meydanı", "lon": 29.1274, "lat": 40.9158},
+    {"il": "İstanbul", "ilce": "Üsküdar", "mahalle": "Altunizade Mh.", "adres": "Altunizade Parkı", "lon": 29.0487, "lat": 41.0279},
+    {"il": "İstanbul", "ilce": "Üsküdar", "mahalle": "Acıbadem Mh.", "adres": "Acıbadem Spor Sahası", "lon": 29.0352, "lat": 41.0221},
+    {"il": "İstanbul", "ilce": "Sultanbeyli", "mahalle": "Orhangazi Mh.", "adres": "Orhangazi Parkı", "lon": 29.2375, "lat": 40.9920},
+    {"il": "İstanbul", "ilce": "Sultanbeyli", "mahalle": "Yenidoğan Mh.", "adres": "Yenidoğan Meydanı", "lon": 29.2401, "lat": 40.9954},
+    {"il": "İstanbul", "ilce": "Pendik", "mahalle": "Kaynarca Mh.", "adres": "Kaynarca Parkı", "lon": 29.2456, "lat": 40.8732},
+    {"il": "İstanbul", "ilce": "Pendik", "mahalle": "Yenişehir Mh.", "adres": "Yenişehir Spor Alanı", "lon": 29.2558, "lat": 40.8627},
+    {"il": "İstanbul", "ilce": "Tuzla", "mahalle": "Aydınlı Mh.", "adres": "Aydınlı Meydanı", "lon": 29.3190, "lat": 40.8115},
+    {"il": "İstanbul", "ilce": "Tuzla", "mahalle": "Mimar Sinan Mh.", "adres": "Mimar Sinan Parkı", "lon": 29.3572, "lat": 40.8150},
+    {"il": "İstanbul", "ilce": "Sarıyer", "mahalle": "Rumeli Hisarı Mh.", "adres": "Rumeli Hisarı Meydanı", "lon": 29.0400, "lat": 41.0712},
+    {"il": "İstanbul", "ilce": "Sarıyer", "mahalle": "Tarabya Mh.", "adres": "Tarabya Sahil Parkı", "lon": 29.0275, "lat": 41.1061},
+    {"il": "İstanbul", "ilce": "Ümraniye", "mahalle": "Atakent Mh.", "adres": "Atakent Parkı", "lon": 29.0998, "lat": 41.0184},
+    {"il": "İstanbul", "ilce": "Ümraniye", "mahalle": "Aşağı Dudullu Mh.", "adres": "Dudullu Meydanı", "lon": 29.1467, "lat": 41.0219},
+    {"il": "İstanbul", "ilce": "Çekmeköy", "mahalle": "Soğukpınar Mh.", "adres": "Soğukpınar Parkı", "lon": 29.1649, "lat": 41.0231},
+    {"il": "İstanbul", "ilce": "Çekmeköy", "mahalle": "Taşdelen Mh.", "adres": "Taşdelen Meydanı", "lon": 29.1462, "lat": 41.0402},
+    {"il": "İstanbul", "ilce": "Ataşehir", "mahalle": "İçerenköy Mh.", "adres": "İçerenköy Parkı", "lon": 29.0744, "lat": 41.0210},
+    {"il": "İstanbul", "ilce": "Ataşehir", "mahalle": "Mevlana Mh.", "adres": "Mevlana Meydanı", "lon": 29.0873, "lat": 41.0146},
+    {"il": "İstanbul", "ilce": "Beyoğlu", "mahalle": "Taksim Mh.", "adres": "Taksim Meydanı", "lon": 28.9872, "lat": 41.0323},
+    {"il": "İstanbul", "ilce": "Beyoğlu", "mahalle": "Cihangir Mh.", "adres": "Cihangir Parkı", "lon": 28.9759, "lat": 41.0289},
+    {"il": "İstanbul", "ilce": "Kağıthane", "mahalle": "Merkez Mh.", "adres": "Kağıthane Parkı", "lon": 28.9865, "lat": 41.0640},
+    {"il": "İstanbul", "ilce": "Kağıthane", "mahalle": "Çeliktepe Mh.", "adres": "Çeliktepe Meydanı", "lon": 28.9932, "lat": 41.0596},
+    {"il": "İstanbul", "ilce": "Gaziosmanpaşa", "mahalle": "Karayolları Mh.", "adres": "Karayolları Parkı", "lon": 28.9156, "lat": 41.0713},
+    {"il": "İstanbul", "ilce": "Gaziosmanpaşa", "mahalle": "Karadeniz Mh.", "adres": "Karadeniz Meydanı", "lon": 28.9027, "lat": 41.0671},
+    {"il": "İstanbul", "ilce": "Bayrampaşa", "mahalle": "Kartaltepe Mh.", "adres": "Kartaltepe Parkı", "lon": 28.9150, "lat": 41.0267},
+    {"il": "İstanbul", "ilce": "Bayrampaşa", "mahalle": "Kocatepe Mh.", "adres": "Kocatepe Meydanı", "lon": 28.8961, "lat": 41.0279},
+    {"il": "İstanbul", "ilce": "Zeytinburnu", "mahalle": "Merkez Mh.", "adres": "Zeytinburnu Sahil Parkı", "lon": 28.9030, "lat": 41.0047},
+    {"il": "İstanbul", "ilce": "Zeytinburnu", "mahalle": "Kazlıçeşme Mh.", "adres": "Kazlıçeşme Meydanı", "lon": 28.9344, "lat": 41.0039},
+    {"il": "İstanbul", "ilce": "Fatih", "mahalle": "Kocamustafapaşa Mh.", "adres": "Kocamustafapaşa Parkı", "lon": 28.9275, "lat": 41.0072},
+    {"il": "İstanbul", "ilce": "Fatih", "mahalle": "Aksaray Mh.", "adres": "Aksaray Meydanı", "lon": 28.9660, "lat": 41.0011},
+    {"il": "İstanbul", "ilce": "Büyükçekmece", "mahalle": "Mimaroba Mh.", "adres": "Mimaroba Parkı", "lon": 28.5704, "lat": 41.0137},
+    {"il": "İstanbul", "ilce": "Büyükçekmece", "mahalle": "Kumburgaz Mh.", "adres": "Kumburgaz Sahil Alanı", "lon": 28.4532, "lat": 41.0045},
+    {"il": "İstanbul", "ilce": "Beyoğlu", "mahalle": "Galata Mh.", "adres": "Galata Meydanı", "lon": 28.9731, "lat": 41.0256},
+    {"il": "İstanbul", "ilce": "Arnavutköy", "mahalle": "Hacımaşlı Mh.", "adres": "Hacımaşlı Parkı", "lon": 28.7189, "lat": 41.1753},
+    {"il": "İstanbul", "ilce": "Arnavutköy", "mahalle": "Hadımköy Mh.", "adres": "Hadımköy Meydanı", "lon": 28.7402, "lat": 41.1648},
+    {"il": "İstanbul", "ilce": "Şile", "mahalle": "Merkez Mh.", "adres": "Şile Meydanı", "lon": 29.5918, "lat": 41.1536},
+    {"il": "İstanbul", "ilce": "Çatalca", "mahalle": "Merkez Mh.", "adres": "Çatalca Parkı", "lon": 28.3754, "lat": 41.1430},
+    {"il": "İstanbul", "ilce": "Beykoz", "mahalle": "Paşabahçe Mh.", "adres": "Paşabahçe Sahil Parkı", "lon": 29.1299, "lat": 41.1115},
+    {"il": "İstanbul", "ilce": "Beykoz", "mahalle": "Riva Mh.", "adres": "Riva Meydanı", "lon": 29.2540, "lat": 41.1702},
+    {"il": "İstanbul", "ilce": "Pendik", "mahalle": "Kurtköy Mh.", "adres": "Kurtköy Parkı", "lon": 29.3105, "lat": 40.8668},
+    {"il": "İstanbul", "ilce": "Sancaktepe", "mahalle": "Rıdvan Paşa Mh.", "adres": "Rıdvan Paşa Meydanı", "lon": 29.1987, "lat": 41.0204},
+    {"il": "İstanbul", "ilce": "Sancaktepe", "mahalle": "Yenidoğan Mh.", "adres": "Yenidoğan Parkı", "lon": 29.1922, "lat": 41.0229},
+    {"il": "İstanbul", "ilce": "Küçükçekmece", "mahalle": "Atakent Mh.", "adres": "Atakent Parkı", "lon": 28.8192, "lat": 41.0035},
+    {"il": "İstanbul", "ilce": "Küçükçekmece", "mahalle": "Halkalı Mh.", "adres": "Halkalı Meydanı", "lon": 28.8279, "lat": 41.0008},
+    {"il": "İstanbul", "ilce": "Esenler", "mahalle": "Kazım Karabekir Mh.", "adres": "Kazım Karabekir Parkı", "lon": 28.8816, "lat": 41.0357},
+    {"il": "İstanbul", "ilce": "Esenler", "mahalle": "Akevler Mh.", "adres": "Akevler Meydanı", "lon": 28.8773, "lat": 41.0394},
+    {"il": "İstanbul", "ilce": "Ümraniye", "mahalle": "Ormangazi Mh.", "adres": "Ormangazi Parkı", "lon": 29.0931, "lat": 41.0129},
+    {"il": "İstanbul", "ilce": "Ümraniye", "mahalle": "Yukarı Dudullu Mh.", "adres": "Yukarı Dudullu Meydanı", "lon": 29.1528, "lat": 41.0297},
+    {"il": "İstanbul", "ilce": "Ataşehir", "mahalle": "Barbaros Mh.", "adres": "Barbaros Parkı", "lon": 29.0915, "lat": 41.0178},
+    {"il": "İstanbul", "ilce": "Kartal", "mahalle": "Cevizli Mh.", "adres": "Cevizli Parkı", "lon": 29.1389, "lat": 40.8942},
+    {"il": "İstanbul", "ilce": "Maltepe", "mahalle": "Bağlar Mh.", "adres": "Bağlar Meydanı", "lon": 29.1440, "lat": 40.9120},
+    {"il": "İstanbul", "ilce": "Maltepe", "mahalle": "Kordon Mh.", "adres": "Kordon Sahil Parkı", "lon": 29.1376, "lat": 40.9150},
+    {"il": "İstanbul", "ilce": "Kartal", "mahalle": "Liparis Mh.", "adres": "Liparis Parkı", "lon": 29.1520, "lat": 40.8898},
+    {"il": "İstanbul", "ilce": "Sultanbeyli", "mahalle": "Hasanpaşa Mh.", "adres": "Hasanpaşa Meydanı", "lon": 29.2336, "lat": 40.9987},
+    {"il": "İstanbul", "ilce": "Beykoz", "mahalle": "Çubuklu Mh.", "adres": "Çubuklu Parkı", "lon": 29.0974, "lat": 41.0593},
+    {"il": "İstanbul", "ilce": "Sarıyer", "mahalle": "Maslak Mh.", "adres": "Maslak Meydanı", "lon": 29.0218, "lat": 41.0949},
+    {"il": "İstanbul", "ilce": "Şile", "mahalle": "Ağva Mh.", "adres": "Ağva Sahil Alanı", "lon": 29.6712, "lat": 41.1501},
+    {"il": "İstanbul", "ilce": "Çekmeköy", "mahalle": "Çamlık Mh.", "adres": "Çamlık Parkı", "lon": 29.1223, "lat": 41.0325},
+    {"il": "İstanbul", "ilce": "Sancaktepe", "mahalle": "Veysel Karani Mh.", "adres": "Veysel Karani Parkı", "lon": 29.1894, "lat": 41.0308},
+    {"il": "İstanbul", "ilce": "Fatih", "mahalle": "Balat Mh.", "adres": "Balat Meydanı", "lon": 28.9205, "lat": 41.0190},
+    {"il": "İstanbul", "ilce": "Fatih", "mahalle": "Eminönü Mh.", "adres": "Eminönü Meydanı", "lon": 28.9714, "lat": 41.0112},
+    {"il": "İstanbul", "ilce": "Bakırköy", "mahalle": "Ataköy Mh.", "adres": "Ataköy Sahil Parkı", "lon": 28.8610, "lat": 40.9785},
+    {"il": "İstanbul", "ilce": "Bakırköy", "mahalle": "Kartaltepe Mh.", "adres": "Bakırköy Meydanı", "lon": 28.8662, "lat": 40.9789},
+    {"il": "İstanbul", "ilce": "Zeytinburnu", "mahalle": "Merkez Efendi Mh.", "adres": "Merkez Efendi Parkı", "lon": 28.9045, "lat": 41.0103},
+    {"il": "İstanbul", "ilce": "Güngören", "mahalle": "Güngören Mh.", "adres": "Güngören Meydanı", "lon": 28.8799, "lat": 41.0056},
+    {"il": "İstanbul", "ilce": "Gaziosmanpaşa", "mahalle": "Mevlana Mh.", "adres": "Mevlana Parkı", "lon": 28.9041, "lat": 41.0702},
+    {"il": "İstanbul", "ilce": "Bayrampaşa", "mahalle": "Yenidoğan Mh.", "adres": "Yenidoğan Parkı", "lon": 28.8822, "lat": 41.0261},
+    {"il": "İstanbul", "ilce": "Esenyurt", "mahalle": "Sultaniye Mh.", "adres": "Sultaniye Parkı", "lon": 28.6668, "lat": 41.0279},
+    {"il": "İstanbul", "ilce": "Beykoz", "mahalle": "Gümüşsuyu Mh.", "adres": "Beykoz Meydanı", "lon": 29.1196, "lat": 41.0967},
+    {"il": "İstanbul", "ilce": "Arnavutköy", "mahalle": "Gönence Mh.", "adres": "Gönence Parkı", "lon": 28.7534, "lat": 41.1540},
+    {"il": "İstanbul", "ilce": "Çatalca", "mahalle": "Ferhatpaşa Mh.", "adres": "Ferhatpaşa Meydanı", "lon": 28.3921, "lat": 41.1210},
+    {"il": "İstanbul", "ilce": "Büyükçekmece", "mahalle": "Cennet Mh.", "adres": "Cennet Parkı", "lon": 28.5873, "lat": 41.0241},
+    {"il": "İstanbul", "ilce": "Sarıyer", "mahalle": "Büyükdere Mh.", "adres": "Büyükdere Meydanı", "lon": 29.0379, "lat": 41.0914},
+    {"il": "İstanbul", "ilce": "Üsküdar", "mahalle": "Kuleli Mh.", "adres": "Kuleli Parkı", "lon": 29.0264, "lat": 41.0217},
+    {"il": "İstanbul", "ilce": "Üsküdar", "mahalle": "Mimar Sinan Mh.", "adres": "Mimar Sinan Meydanı", "lon": 29.0288, "lat": 41.0079},
+    {"il": "İstanbul", "ilce": "Pendik", "mahalle": "Sahil Mh.", "adres": "Pendik Sahil Parkı", "lon": 29.1715, "lat": 40.8699},
+    {"il": "İstanbul", "ilce": "Tuzla", "mahalle": "İstasyon Mh.", "adres": "Tuzla Meydanı", "lon": 29.2763, "lat": 40.8056},
+    {"il": "İstanbul", "ilce": "Sultanbeyli", "mahalle": "Fevzi Çakmak Mh.", "adres": "Fevzi Çakmak Parkı", "lon": 29.2254, "lat": 40.9970},
+    {"il": "İstanbul", "ilce": "Kağıthane", "mahalle": "Gültepe Mh.", "adres": "Gültepe Parkı", "lon": 28.9991, "lat": 41.0348},
+    {"il": "İstanbul", "ilce": "Kağıthane", "mahalle": "Harman Mh.", "adres": "Harman Meydanı", "lon": 28.9902, "lat": 41.0542},
+    {"il": "İstanbul", "ilce": "Kâğıthane", "mahalle": "Çağlayan Mh.", "adres": "Çağlayan Parkı", "lon": 28.9967, "lat": 41.0523},
+    {"il": "İstanbul", "ilce": "Silivri", "mahalle": "Merkez Mh.", "adres": "Silivri Meydanı", "lon": 28.2584, "lat": 41.0709},
+    {"il": "İstanbul", "ilce": "Silivri", "mahalle": "Çanta Mh.", "adres": "Çanta Parkı", "lon": 28.1745, "lat": 41.1143},
+    {"il": "İstanbul", "ilce": "Güngören", "mahalle": "Merkez Mh.", "adres": "Güngören Parkı", "lon": 28.8768, "lat": 41.0122},
+    {"il": "İstanbul", "ilce": "Sancaktepe", "mahalle": "Dereköy Mh.", "adres": "Dereköy Meydanı", "lon": 29.2140, "lat": 41.0350},
+    {"il": "İstanbul", "ilce": "Beylikdüzü", "mahalle": "Adnan Kahveci Mh.", "adres": "Adnan Kahveci Parkı", "lon": 28.6764, "lat": 41.0062},
+    {"il": "İstanbul", "ilce": "Beylikdüzü", "mahalle": "Yakuplu Mh.", "adres": "Yakuplu Meydanı", "lon": 28.6570, "lat": 41.0168},
+    {"il": "İstanbul", "ilce": "Bostancı", "mahalle": "Feneryolu Mh.", "adres": "Feneryolu Parkı", "lon": 29.0396, "lat": 40.9608},
+    {"il": "İstanbul", "ilce": "Kartal", "mahalle": "Orhantepe Mh.", "adres": "Orhantepe Parkı", "lon": 29.1538, "lat": 40.9029},
+    {"il": "İstanbul", "ilce": "Maltepe", "mahalle": "Altayçeşme Mh.", "adres": "Altayçeşme Sahil Parkı", "lon": 29.1308, "lat": 40.9022}
+]
