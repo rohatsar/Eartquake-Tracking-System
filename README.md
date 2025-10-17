@@ -53,7 +53,7 @@ Some map features require an active internet connection.
 ├── deprem_penceresi.py
 ├── deprem_risk_penceresi.py
 ├── depremverisi.py
-├── desktop_app.py                ← MAIN FILE
+├── [desktop_app.py  ← MAIN FILE]
 ├── desktop_app_functions.py
 ├── harita.html
 ├── harita_liste_penceresi.py
